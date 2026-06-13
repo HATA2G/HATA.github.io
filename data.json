@@ -1,12 +1,34 @@
-[
-  {
-    "title": "作品1のタイトル",
-    "image": "work1.jpg",
-    "link": "https://pixiv.net/..."
-  },
-  {
-    "title": "作品2のタイトル",
-    "image": "work2.jpg",
-    "link": "https://youtube.com/..."
-  }
-]
+{
+  "videos": [
+    {
+      "title": "動画1",
+      "youtubeId": "dQw4w9WgXcQ"
+    },
+    {
+      "title": "動画2",
+      "youtubeId": "別の動画のID"
+    }
+  ],
+  "illustrations": [
+    {
+      "title": "イラスト1",
+      "image": "work1.jpg"
+    },
+    {
+      "title": "イラスト2",
+      "image": "work2.jpg"
+    }
+  ],
+  "vrchatWorlds": [
+    {
+      "title": "ワールド1",
+      "image": "world1_thumb.jpg",
+      "link": "https://vrchat.com/home/launch?worldId=..."
+    },
+    {
+      "title": "ワールド2",
+      "image": "world2_thumb.jpg",
+      "link": "https://vrchat.com/home/launch?worldId=..."
+    }
+  ]
+}
