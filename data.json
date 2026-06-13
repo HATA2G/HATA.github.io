@@ -1,0 +1,12 @@
+[
+  {
+    "title": "作品1のタイトル",
+    "image": "work1.jpg",
+    "link": "https://pixiv.net/..."
+  },
+  {
+    "title": "作品2のタイトル",
+    "image": "work2.jpg",
+    "link": "https://youtube.com/..."
+  }
+]
